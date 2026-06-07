@@ -28,4 +28,3 @@ export FOX_RECOVERY_VENDOR_PARTITION="/dev/block/mapper/vendor"
 export FOX_ENABLE_APP_MANAGER=1
 export FOX_DELETE_AROMAFM=0
 export FOX_USE_NANO_EDITOR=1
-lunch twrp_renoir-eng
