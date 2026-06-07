@@ -27,7 +27,7 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 $(call inherit-product, device/xiaomi/renoir/device.mk)
 
 # Inherit any Orangefox specific setting
-$(call inherit-product, device/xiaomi/lisa/fox_lisa.mk)
+$(call inherit-product, device/xiaomi/renoir/fox_renoir.mk)
 
 # Device identifier
 PRODUCT_NAME := twrp_renoir
